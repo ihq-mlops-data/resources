@@ -1,2 +1,2 @@
 # resources
-Repository to story common resources
+Repository to store common resources
